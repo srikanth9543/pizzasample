@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="2f417d93e1f62fd4fb4a2c0f3a4a882dd0ca7843">
+        <dex dex="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/pre-dexed/debug/classes-a5c605f2260222f55daa7a1c18a813626f92d36d.jar" />
+    </item>
+    <item
+        jar="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha2-6d58dd28e9b97d5e44f47a432fc29ca8bc4ed6d0.jar" />
+    </item>
+    <item
+        jar="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/pre-dexed/debug/classes-05aa980361ea7daa479c859556be961cae019a1c.jar" />
+    </item>
+    <item
+        jar="/Users/skanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="/Users/skanth/Downloads/PizzaSample/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha2-c92cb43367bb87d2792b702d56205ce3c73d1cae.jar" />
+    </item>
+
+</items>

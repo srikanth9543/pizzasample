@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PizzaSample</string>
+
+    <string name="hello_world">Searching for Popular Pizza !</string>
+    <string name="action_settings">Settings</string>
+</resources>
